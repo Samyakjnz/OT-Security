@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.env
+.env.local
+.idx/
+.modified
+pg_data/ (if it exists locally)
+*.log
+.DS_Store
+frontend/node_modules/
+backend/node_modules/
